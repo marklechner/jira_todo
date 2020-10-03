@@ -1,2 +1,2 @@
 # jira_todo
-todo list in jira
+you know... for recurring tasks
