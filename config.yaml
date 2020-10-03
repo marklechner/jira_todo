@@ -1,0 +1,10 @@
+jira_server: https://my_instance.jira.com
+
+default_user: mark.lechner 
+default_assignee: mark.lechner
+
+todo_list:
+    - feed the ferret
+    - drink coffee
+    - walk the ferret
+    - read a book
